@@ -37,7 +37,7 @@ const thoughts = [
   },
 ];
 
-// Seed function
+// Seed function to test application
 const seedDatabase = async () => {
   try {
     // Clear existing data
